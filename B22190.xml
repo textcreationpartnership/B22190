@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments instructions to the Earl of Essex, Lord Generall of the army agreed on by the Lords and Commmons [sic] in Parliament assembled, September the 17. likewise the resolution of his excellencie to advance his forces from Northampton and march toward the Kings most excellent Majesty, together with his desires to both Houses of Parliament : also the resolution of the Earl of Cumberland, the Earl of New-castle and the Lord Strange to joyn their forces together in a full body and meet the Earl of Essex : with Sir Iohn Hothams determination concerning the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22190</idno>
+            <idno type="STC">Wing E2138</idno>
+            <idno type="EEBO-CITATION">12303051</idno>
+            <idno type="OCLC">ocm 12303051</idno>
+            <idno type="VID">197661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197661)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E118, no 11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments instructions to the Earl of Essex, Lord Generall of the army agreed on by the Lords and Commmons [sic] in Parliament assembled, September the 17. likewise the resolution of his excellencie to advance his forces from Northampton and march toward the Kings most excellent Majesty, together with his desires to both Houses of Parliament : also the resolution of the Earl of Cumberland, the Earl of New-castle and the Lord Strange to joyn their forces together in a full body and meet the Earl of Essex : with Sir Iohn Hothams determination concerning the same.</title>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Blund,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>September 20, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not an official publication.</note>
+                  <note>"The Earl of Essex his letter to the high court of Parliament. Sep. 17 [i.e 15]" : p. [6-8]</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>Derby, James Stanley, --  Earl of, 1607-1651.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197661:1" rendition="simple:additions"/>
+            <p>THE PARLIAMENTS INSTRUCTIONS To the Earl of <hi>Eſſex,</hi> Lord Generall of the Army, Agreed on by the Lords and Commons in Parliament aſſembled, <hi>September the</hi> 17.</p>
+            <p>Likewiſe the Reſolution of his <hi>Excellencie,</hi> to ad<g ref="char:EOLhyphen"/>vance his Forees from Norhampton, and march toward the Kings moſt Excellent Majeſty, together with his Deſires to both Houſes of PARLIAMENT.</p>
+            <p>Alſo, the Reſolution of the Earl of Cumberland, the Earl of New-Caſtle, and the Lord Strange, to joyn their Forces together in a full Body, and meet the Earl of <hi>Eſſex,</hi> with Sir <hi>Iohn Hothams</hi> Determination concer<g ref="char:EOLhyphen"/>ning the ſame.</p>
+            <figure>
+               <head>C R</head>
+               <figDesc>central circle flanked by the English lion on the left and the Scottish unicorn on the right and containing the initials of King Charles, all of these figures enclosed within a rectangle flanked by angel on the left and right</figDesc>
+            </figure>
+            <p>LONDON: Printed for <hi>H. Blund. September</hi> 20. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_instructions">
+            <pb facs="tcp:197661:2"/>
+            <pb facs="tcp:197661:2"/>
+            <head>THE PARLIAMENTS <hi>INSTRUCTIONS</hi> To his Excellence the Earl of <hi>Eſſex,</hi> Lord Generall of the Army.</head>
+            <head type="sub">Agreed on by the Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, upon Satterday Sep. 17.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Great and Honourable Court of <hi>PARLIAMENT</hi> having out of their Pious and Judicious Wiſedomes, taken into ſerious conſidera<g ref="char:EOLhyphen"/>tion the great and manifold Oppreſſions that the true Engliſh Proteſtonts daily groan undes, by Reaſon of the wicked and inhumane Actions of the Blood-ſucking Party, and having had great debate there upon, it was
+<pb facs="tcp:197661:3"/>conſented to, and reſolved, that a ſpeedy re<g ref="char:EOLhyphen"/>dreſſe ſhould be had of all ſuch particulars, and although they have incenſed his Majeſty a<g ref="char:EOLhyphen"/>gainſt this great and Honourable Aſſembly of <hi>PARLIAMENT,</hi> driving and forcing into his Majeſties Royall Breaſt, ſuch inveterate cru<g ref="char:EOLhyphen"/>elty againſt the <hi>Houſes of Parliament,</hi> and doth ſtill in a moſt Trayterous manner, dayly ſtrive and endeavour to poſſeſſe His Majeſty with ſuch Thoughts, that this Honourable Aſſem<g ref="char:EOLhyphen"/>blie doth by all poſſible meanes endeavour to Raiſe Forces againſt his Majeſties Royall Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>VVhereupon the Lords and Commons in Parliament aſſembled, having ſeriouſly weigh<g ref="char:EOLhyphen"/>ed and conſidered the ſaid Particulers, fell into Debate of the Petition of both Houſes of Par<g ref="char:EOLhyphen"/>liament to His Majeſty, in the behalfe of them<g ref="char:EOLhyphen"/>ſelves and all the Commons of <hi>ENGLAND,</hi> the Earl of <hi>ESSEX</hi> being ordered to march ſpeedily towards his Majeſty, and to carry the ſame with him into the field.</p>
+            <p>VVherein hee is to Declare and lay open to His Majeſty, the occaſion of their Raifing of Forces, and the true meaning of all their Inten<g ref="char:EOLhyphen"/>tions, that ſo there may be a good Vnderſtan<g ref="char:EOLhyphen"/>ding wrought betwixt His Gracious Majeſty, and the Honourable Aſſembly His High Court of <hi>PARLIAMENT.</hi>
+            </p>
+            <p>His Excellencie the Earl of Eſſex, is like<g ref="char:EOLhyphen"/>wiſe ordered and commanded by both Houſes to ſhew and Declare unto his Majeſty, amongſt
+<pb facs="tcp:197661:3"/>divers other particulars, that they have no In<g ref="char:EOLhyphen"/>tent or purpoſe to make VVarre againſt His Majeſty, but to the contrary, that their utmoſt ayme and endeavour is to maintaine the ſafety of His Majeſties Perſon, and the true Proteſtant Religion.</p>
+            <p>The Houſe likewiſe ordered, and to that end reſolved, to ſend certain Inſtructions to the Earl of Eſſex, declaring their will and pleaſure that he ſhould forthwith advance his Forces from Norhampton, towards the Kings Maje<g ref="char:EOLhyphen"/>ſtie, which he is Reſolved to doe and performe accordingly.</p>
+            <p>But it is ſignified by divers Letters from <hi>Yorke,</hi> to both Houſes of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> that the Forces raiſed by the Earl of <hi>Cumberland</hi> and other Lords in the Northern parts, are making of them<g ref="char:EOLhyphen"/>ſelves ready to march to his Majeſties Forces at <hi>Nottingham,</hi> where they intend to joyn in a full Body, and march a<g ref="char:EOLhyphen"/>gainſt the Earl of <hi>Eſsex</hi> his Army, Sir <hi>John Hotham</hi> is reſolved to aſſiſt the Earl of <hi>Eſſex,</hi> and to come again the e<g ref="char:EOLhyphen"/>nemy upon the Arrear, he having now taken the City of <hi>Yorke</hi> from the Ma<g ref="char:EOLhyphen"/>lignant Party, having beaten the Earle of Cumberlands Forces from thence.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:197661:4"/>
+            <head>The Earl of Eſſex his Letter to the High Court of Parliament, Sep. 17.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>I Remember ſo great expreſſion of affection from the City of <hi>London,</hi> at my departure from you, that I can<g ref="char:EOLhyphen"/>not diſpaire, but to obtain my ſuite from you that ſhall be an advantage to the Common-wealth, upon the true judgment of the condition of our Af<g ref="char:EOLhyphen"/>fairs, and of that of the enemy. I am confident, we may bring a quick and happy concluſion; God doth bleſſe us with ſo good ſucceſſe daily, and the o<g ref="char:EOLhyphen"/>ther Party by their plundering and bur<g ref="char:EOLhyphen"/>ning of towns grow ſo odious, that they grow weaker, and we ſtronger e<g ref="char:EOLhyphen"/>very where.</p>
+            <p>Yet are we in one great ſtreight, and ſuch a one, as if it be not ſpeedily re<g ref="char:EOLhyphen"/>mided, may quaſh all our hopes, and
+<pb facs="tcp:197661:4"/>may endanger the Peace and Liberty we ſo much ſtrive for, our Treaſure which muſt maintain the Army grows neer to an end, and you well know that our Army conſiſts of ſuch as can<g ref="char:EOLhyphen"/>not be kept one day without pay.</p>
+            <p>What a Ruine would it bring upon us, if a disbanding ſhould happen, I leave to your Judgments.</p>
+            <p>My Deſire unto you is, That you would ſupply us with the ſpeedy ſum of one hundred thouſand pounds, which I am confident would with Gods Bleſſing bring theſe unhappy di<g ref="char:EOLhyphen"/>ſtractions to an end ſuddenly.</p>
+            <p>Your City hath hitherto had the Honour (next to God) to be the chie<g ref="char:EOLhyphen"/>feſt ſafety of the Kingdom and Parlia<g ref="char:EOLhyphen"/>ment: This will render you to all poſterity, the finiſhers of this great work, if any thing of particular love or reſpect to me may be an Argument herein, I ſhall take it as the greateſt honour that hath befallen me, and wil
+<pb facs="tcp:197661:5"/>oblige my ſelfe to acknowledge it, by the utmoſt and moſt faithfull indea<g ref="char:EOLhyphen"/>vour of</p>
+            <closer>
+               <signed>Your faithfull Friend, <hi>ESSEX.</hi>
+               </signed>
+               <dateline>From the Rendevouz at <hi>Norhampton,</hi> 
+                  <date>Sep. 15. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>portrait of the Earl of Essex (?)</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
